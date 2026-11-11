@@ -1,3 +1,4 @@
 # Controle de finanças pessoais
 
-API local em Python 3.10+ com SQLite. Para iniciar a partir da raiz do projeto:
+API local em Dart com SQLite. Na raiz do projeto, execute os comandos abaixo.
+

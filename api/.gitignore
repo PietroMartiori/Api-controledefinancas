@@ -1,2 +1,3 @@
-__pycache__/
+.dart_tool/
 *.sqlite3
+__pycache__/

@@ -1,0 +1,10 @@
+name: financas_api
+environment:
+  sdk: ^3.10.0
+dependencies:
+  sqlite3: ^3.3.2
+hooks:
+  user_defines:
+    sqlite3:
+      source: system
+      name_windows: winsqlite3
